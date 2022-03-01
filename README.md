@@ -1,7 +1,6 @@
 Hi, I am Arslan.
-I am interested in Web Development specially MERN and PERN Stack.
-My Strong Side is Front-end but I can also work with back-end.
-You can reach me at Arslanjs.dev@gmail.com
+And I love to work with react.
+You can also reach me at arslanjs.dev@gmail.com
 
 
 <!--

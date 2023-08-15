@@ -23,7 +23,7 @@
     🔗 [Arslan's Personal Portfolio Website]([https://www.fahadshahzad.com/](https://arslan-soomro.github.io/))
 
 ### Technologies I am working with:
-    👉	Front End
+    👉  Front End
             HTML5
             CSS ======> SASS Framework
             Bootstrap 5

@@ -20,7 +20,7 @@
     * A task management website enabling users to generate boards for organizing categories and subsequently establish and manage their to-do items.
     
 ### Portfolio    
-    🔗 [Arslan's Personal Portfolio Website]([https://www.fahadshahzad.com/](https://arslan-soomro.github.io/))
+    🔗 [Arslan's Personal Portfolio Website](arslanjs.dev)
 
 ### Technologies I am working with:
     👉  Front End

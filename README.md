@@ -1,4 +1,4 @@
-### Hi there, Arslan Soomro here 😍 
+### Hi there, Arslan Soomro here
 
     
 ### Student Life
